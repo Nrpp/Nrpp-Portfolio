@@ -16,8 +16,8 @@ My personal website, made to look like a little desktop OS. It has "windows" you
 You can just go to nrpp.github.io and see it there.
 
 ## To-do
-- [] Make the project card links actually go somewhere
-- [] Add a real screanshot of my current projects (MagicMirror, AlexOS, Python, ...)
-- [] Add more proyects
-- [] Add more usefull things
-- [] Add a clock (just because it's aesthetic)
+- [ ] Make the project card links actually go somewhere
+- [ ] Add a real screanshot of my current projects (MagicMirror, AlexOS, Python, ...)
+- [ ] Add more proyects
+- [ ] Add more usefull things
+- [ ] Add a clock (just because it's aesthetic)
