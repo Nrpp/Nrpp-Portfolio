@@ -21,7 +21,7 @@ body {
     background: linear-gradient(to bottom, #0b1624, #28344a, #3b4a63);
 }
 
-.montana { 
+.montana {
     position: absolute;
     bottom: 0;
     width: 60%;
@@ -159,7 +159,7 @@ body {
     color: white;
 }
 
-.ventana-contenido{
+.ventana-contenido {
     padding: 20px;
 }
 
